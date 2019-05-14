@@ -1,0 +1,6 @@
+CREATE TABLE datasource(
+id INTEGER PRIMARY KEY,
+kind VARCHAR(64),
+source VARCHAR(256),
+title VARCHAR(256)
+);
